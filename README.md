@@ -26,7 +26,7 @@ Simple app created to show the beauty of some landmarks together with user profi
 
 #### 🚀 Clone the repository
 ```bash
-git clone https://github.com/yourusername/landmarks.git
+git clone https://github.com/ShacksVS/landmarks.git
 ```
 
 #### 📂 Open the project
